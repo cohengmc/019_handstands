@@ -1,0 +1,13 @@
+{
+  "name": "019_handstands",
+  "version": "1.0.0",
+  "description": "5 May 2024 I want to make a site to put videos to track my handstand progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
